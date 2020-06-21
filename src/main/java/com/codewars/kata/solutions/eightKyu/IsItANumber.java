@@ -1,4 +1,4 @@
-package eightKyu;
+package com.codewars.kata.solutions.eightKyu;
 
 /**
  * IsItANumber.
